@@ -62,7 +62,7 @@ navItems.forEach((element) => {
 
 let options = {
     root: null,
-    rootMargin: "-370px 0px",
+    rootMargin: "-370px 0px -190px 0px",
     threshold: 0,
 };
 
